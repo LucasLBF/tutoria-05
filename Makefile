@@ -6,7 +6,7 @@ bin: main.c
 .PHONY: clean run
 
 clean:
-	rm bin
+	rm -f bin
 
 run:
 	./bin 
