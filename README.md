@@ -10,7 +10,7 @@ git clone https://github.com/LucasLBF/tutoria-05.git
 
 Change directories
 ```sh
-cd tutoria_05
+cd tutoria-05
 ```
 ## Make Commands
 
