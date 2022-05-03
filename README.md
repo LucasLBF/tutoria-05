@@ -5,7 +5,7 @@ Exercise for simulating multiple thread synchronization via mutex
 
 Clone repository
 ```sh
-git clone https://github.com/LucasLBF/tutoria_05.git
+git clone https://github.com/LucasLBF/tutoria-05.git
 ```
 
 Change directories
